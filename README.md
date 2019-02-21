@@ -1,3 +1,3 @@
 # javascript_json
 
-This repository has been updated with today's work i.e. 20 February. The folder (task_20-2) contains 3 folders for 3 individual assignment questions given.
+This repository has been updated with today's work i.e. 21 February. The folder (task_21-2) contains the code for clock.
